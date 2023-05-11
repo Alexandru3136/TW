@@ -1,0 +1,52 @@
+﻿@model IEnumerable<eUseControl.Domain.Entities.Product.DbProduct>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutProducts.cshtml";
+}
+
+<h2 style="text-align:center">Produse</h2>
+
+<p>
+    @Html.ActionLink("Adauga produs", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Desc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prod_Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastEditTime)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prod_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prod_Desc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prod_Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastEditTime)
+        </td>
+        <td>
+            @Html.ActionLink("Editeaza", "Edit", new { id=item.Prod_Id }) |
+            @Html.ActionLink("Detalii", "Details", new { id=item.Prod_Id }) |
+            @Html.ActionLink("Sterge", "Delete", new { id=item.Prod_Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,51 @@
+﻿@model eUseControl.Domain.Entities.Product.DbProduct
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout _Products.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DbProduct</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Prod_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prod_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prod_Desc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prod_Desc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prod_Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prod_Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastEditTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastEditTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Prod_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

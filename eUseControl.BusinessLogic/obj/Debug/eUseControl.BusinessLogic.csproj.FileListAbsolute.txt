@@ -1,0 +1,68 @@
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojAssemblyReference.cache
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Tehnologii Web\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojAssemblyReference.cache
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Tehnologii Web\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Lenovo\Desktop\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.AssemblyReference.cache
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb

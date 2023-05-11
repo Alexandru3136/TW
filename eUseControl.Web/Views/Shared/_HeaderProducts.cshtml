@@ -1,0 +1,38 @@
+﻿@using eUseControl.Domain.Enums
+@using eUseControl.Extension
+<!-- Header section  -->
+
+<a href="index.html" class="site-logo"> <img src="~/Content/themes/base/images/logo.png" alt="logo"> </a>
+<div class="header-controls">
+
+    <button class="nav-switch-btn"><i class="fa fa-bars"></i> </button>
+    <button class="search-btn"><i class="fa fa-search"></i></button>
+</div>
+
+<ul class="main-menu">
+    <li>
+        <a href="@Url.Action("Index" , "Home")"> Acasă</a>
+    </li>
+
+    <li>
+        <a href="@Url.Action("Index" , "About")"> Despre mine</a>
+    </li>
+
+    <li>
+        <a href="#">Portfoliu</a>
+        <ul class="sub-menu">
+            <li><a href="@Url.Action("Index" , "Portofolio")">Portfoliu 1</a></li>
+            <li><a href="@Url.Action("Index" , "Portofolio1")">Portfoliu 2</a></li>
+            <li><a href="@Url.Action("Index" , "Portofolio2")">Portfoliu 3</a></li>
+        </ul>
+    </li>
+    <li><a href="@Url.Action("Index", "Products")">Produse</a></li>
+
+    <li><a href="@Url.Action("Index" , "Contact")">Contactează-ne</a></li>
+    <li class="search-mobile">
+        <button class="search-btn"><i class="fa fa-search"></i></button>
+    </li>
+</ul>
+
+
+<!-- Header section end  -->

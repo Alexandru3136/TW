@@ -1,0 +1,75 @@
+﻿@using System.Web.Optimization
+
+<!DOCTYPE html>
+<html>
+<head>
+
+     <meta charset="UTF-8">
+     <meta name="description" content="Photographer html template">
+     <meta name="keywords" content="photographer, html">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <title>PHOTOGRAPHER @ViewBag.Title</title>
+
+     <!-- Favicon -->
+     <link href="~/Content/themes/base/images/favicon.ico" rel="shortcut icon" />
+
+
+     <!-- Google font -->
+     <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap" rel="stylesheet">
+
+     <!-- Stylesheets-->
+     @Styles.Render("~/bundles/bootstrap/css")
+     @Styles.Render("~/bundles/font-awesome/css")
+     @Styles.Render("~/bundles/magnific-popup/css")
+     @Styles.Render("~/bundles/slicknav/css")
+     @Styles.Render("~/bundles/owl.carousel/css")
+
+     <!-- Add local styles, mostly for plugins css file -->
+     @if (IsSectionDefined("Styles"))
+     {@RenderSection("Styles", required: false)}
+
+     <!-- Main Stylesheets -->
+     @Styles.Render("~/bundles/style/css")
+
+
+</head>
+
+
+<body>
+     <!-- Header section  -->
+     <header class="header-section">
+          @Html.Partial("_Header")
+     <div class="clearfix"></div>
+     <!-- Header section end -->
+
+     <content>
+     @RenderBody()
+     </content>
+     
+
+     <!-- Footer section   -->
+     <footer class="footer-section">
+          @Html.Partial("_Footer")
+     </footer>
+
+     <!-- Section for main scripts render-->
+     @Scripts.Render("~/bundles/jquery-3.2.1/js")
+     @Scripts.Render("~/bundles/bootstrap/js")
+     @Scripts.Render("~/bundles/jquery.slicknav/js")
+     @Scripts.Render("~/bundles/owl.carousel/js")
+     @Scripts.Render("~/bundles/jquery.magnific-popup/js")
+     @Scripts.Render("~/bundles/circle-progress/js")
+     @Scripts.Render("~/bundles/mixitup/js")
+     @Scripts.Render("~/bundles/instafeed/js")
+     @Scripts.Render("~/bundles/masonry.pkgd/js")
+     @Scripts.Render("~/bundles/main/js")
+
+
+     <!-- Handler for local scripts -->
+     @RenderSection("scripts", required: false)
+
+
+</body>
+
+</html>

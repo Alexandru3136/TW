@@ -1,0 +1,72 @@
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll.config
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\Chiforiuc Adrian TI-203\Others\Adina Pantea\Lab_4\Lab_4\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll.config
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.xml
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+D:\Anul II\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll.config
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\AutoMapper.xml
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\WebMatrix.Data.xml
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BussinesLogic.csproj.CopyComplete
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Alexandru\Desktop\Tehnologii Web\Lab_TW\eUseControl1\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
